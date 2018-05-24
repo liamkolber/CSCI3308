@@ -1,0 +1,27 @@
+/* Liam Kolber */
+#item {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	padding: 5px;
+	border: 2px dashed red;
+	font-family: "Courier New";
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+p {
+	font-family: "Arial";
+	text-indent: 25px;
+}
+
+/*
+ - Added tooltips to the links
+ - Added hover on links
+ - Changed fonts of links and body text
+ - Changed background color
+ - Added indent on paragraphs
+ - Added image in top right corner
+*/

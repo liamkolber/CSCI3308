@@ -1,0 +1,7 @@
+Liam Kolber
+
+Q: What are the things needed for Bootstrap to be loaded?
+A: In order to load bootstrap you need to load it into the CDN which can be done via a HTML link. This is under the <!-- Bootstrap CSS --> section of the code.
+
+Q: How does Bootstrap's Grid system work?
+A: The grid system is adaptive. THis means that depending on the screen size in which the content is being displayed, the grid adjusts in order to display information in the most effective way.

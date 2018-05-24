@@ -1,0 +1,31 @@
+1. 
+style: "background-color: blue;"
+Doing this inside the div1 header only affects div1.
+
+2.
+Changing margin affects distance from edges of browser window.
+Changing padding affect the distance of each div from each other.
+
+3.
+Changing the margin and padding of the <p> element in div1 to a value greater than 100px completely moves and resizes the element to a location outside of div1.
+
+4.
+Hidden: hides any overflow that extends beyond the border of the div.
+Scroll: allows scrolling to view the overflow within a window defined by the div.
+
+5.
+Left: 1 2 3
+Right 3 2 1
+
+6.
+1 on left, 3 and 2 on right
+1 and 2 on left, 3 on right
+1, 2 and 3 on left
+
+7.
+div1: float: left;
+div2: float: left; clear: right;
+div3: float: left;
+
+8.
+The divs all move to the edge of the browser window. This means the body element has a default margin of 8px (determined through trial and error).

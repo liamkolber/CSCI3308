@@ -1,0 +1,58 @@
+/*Liam Kolber*/
+.row {
+	text-align: center;
+}
+
+.col-sm-6 {
+	padding: 5px;
+}
+
+.col-sm-5 {
+	padding: 5px;
+}
+
+.col-sm-4 {
+	padding: 5px;
+}
+
+.col-sm-3 {
+	padding: 5px;
+}
+
+.col-sm-2 {
+	padding: 5px;
+}
+
+.col-sm-8 {
+	padding: 5px;
+}
+
+#fir {
+	color: #FFFFFF;
+	background-color: #FF0000;
+}
+
+#sec {
+	color: #FFFFFF;
+	background-color: #FFAA00;
+}
+
+#thi {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+#fou {
+	color: #FFFFFF;
+	background-color: #006600;
+}
+
+#fif {
+	color: #FFFFFF;
+	background-color: #0000CC;
+}
+
+#six {
+	color: #FFFFFF;
+	background-color: #990099;
+}
